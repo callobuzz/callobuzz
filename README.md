@@ -265,17 +265,7 @@ If a business has disconnected tools, manual processes, repeated mistakes, uncle
 
 ## 📈 GitHub Overview
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callobuzz&theme=github-dark-blue&hide_border=true)
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callobuzz&theme=github_dark)
-
-![GitHub Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callobuzz&theme=github_dark)
-
-![GitHub Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callobuzz&theme=github_dark)
-
-</div>
+<div align="center"> ![SV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=callobuzz&show_icons=true&theme=github_dark&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callobuzz&layout=compact&theme=github_dark&hide_border=true) ![GitHub Streak](https://streak-stats.demolab.com?user=callobuzz&theme=github-dark-blue&hide_border=true) </div>
 
 ---
 
